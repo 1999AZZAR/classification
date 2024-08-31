@@ -5,3 +5,5 @@ face-expression-recognition-dataset/*
 *.h5
 *.csv
 .ipynb_checkpoints/*
+*.txt
+*.zip
