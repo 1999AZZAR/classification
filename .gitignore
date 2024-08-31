@@ -4,3 +4,4 @@ face-expression-recognition-dataset/*
 *.json
 *.h5
 *.csv
+.ipynb_checkpoints/*
