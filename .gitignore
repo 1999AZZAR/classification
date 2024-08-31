@@ -1,0 +1,6 @@
+face-expression-recognition-dataset/*
+*.keras
+*.pth
+*.json
+*.h5
+*.csv
