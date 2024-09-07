@@ -1,4 +1,5 @@
 face-expression-recognition-dataset/*
+Micro_Expressions/*
 *.json
 *.h5
 *.csv
